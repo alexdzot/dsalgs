@@ -6,5 +6,5 @@ Implemented Data Structures:
 - [x] SinglyLinkedList (no tail pointer)
 - [x] Vector
 - [x] CirularlyLinkedList
-- [ ] DoublyLinkedList
+- [x] DoublyLinkedList
 - [ ] HashTable
